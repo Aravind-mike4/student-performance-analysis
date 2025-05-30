@@ -1,5 +1,4 @@
-# 🎓 Student Performance Analysis (No Seaborn Version)
-
+# 🎓 Student Performance Analysis 
 This project explores and analyzes a student performance dataset using core Python libraries: **Pandas**, **NumPy**, and **Matplotlib** (no Seaborn used).
 
 ## 📁 Dataset
